@@ -1,29 +1,18 @@
 # test-project
 
-## Project setup
+## 使用
+
+#### 1 install
 ```
 npm install
 ```
+#### 2 启动开发环境
 
-### Compiles and hot-reloads for development
+**前端**：
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
+**后端**：
 ```
-npm run build
+npm run server
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
