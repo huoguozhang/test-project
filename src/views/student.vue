@@ -123,6 +123,7 @@ export default {
           await this.$request.createStudentItem(this.studentForm)
         }
         this.resetStudentForm()
+        this.getStudentList()
         this.showStudentForm = false
       })
     },
